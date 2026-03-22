@@ -34,9 +34,9 @@ This dashboard enables businesses to:
 ---
 
 ## Tools Used
-- Power BI  
-- Python (Pandas, Matplotlib)  
-- Excel  
+- *Power BI* - Dashboard creation and visualization   
+- *Python (Pandas, Matplotlib)* - – Data cleaning and analysis 
+- *Excel* -   
 
 ---
 
