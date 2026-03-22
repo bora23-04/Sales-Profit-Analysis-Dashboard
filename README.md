@@ -1,4 +1,4 @@
-# Sales & Profit Analysis Dashboard (Power BI)
+# Sales & Profit Analysis Dashboard 
 
 ## Business Problem
 Businesses often struggle to understand why profits decline despite high sales.  
