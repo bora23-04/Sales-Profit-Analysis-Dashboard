@@ -25,6 +25,7 @@ I built an interactive Power BI dashboard that helps stakeholders:
 
 ## Business Impact
 This dashboard enables businesses to:
+
 ✔ Reduce unnecessary discounts  
 ✔ Improve pricing strategy  
 ✔ Focus on high-profit products  
@@ -48,9 +49,9 @@ This dashboard enables businesses to:
 ---
 
 ## Files Included
-- Power BI Dashboard (.pbix)
+- Power BI Dashboard (sales.pbix)
 - Dataset
-- Python Analysis (optional)
+- Python Analysis (sales_project.ipynb)
 
 ---
 
