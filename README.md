@@ -1,12 +1,12 @@
-# 📊 Sales & Profit Analysis Dashboard (Power BI)
+# Sales & Profit Analysis Dashboard (Power BI)
 
-## 💼 Business Problem
+## Business Problem
 Businesses often struggle to understand why profits decline despite high sales.  
 This project analyzes sales data to identify hidden losses, inefficient discount strategies, and underperforming products.
 
 ---
 
-## 🎯 Solution
+## Solution
 I built an interactive Power BI dashboard that helps stakeholders:
 - Track sales and profit in real-time
 - Identify loss-making products
@@ -15,7 +15,7 @@ I built an interactive Power BI dashboard that helps stakeholders:
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 - High discounts are directly reducing profits  
 - Some products consistently generate losses  
 - Technology category drives most profit  
@@ -23,7 +23,7 @@ I built an interactive Power BI dashboard that helps stakeholders:
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 This dashboard enables businesses to:
 ✔ Reduce unnecessary discounts  
 ✔ Improve pricing strategy  
@@ -32,7 +32,7 @@ This dashboard enables businesses to:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI  
 - Python (Pandas, Matplotlib)  
 - Excel  
@@ -47,14 +47,14 @@ This dashboard enables businesses to:
 
 ---
 
-## 📂 Files Included
+## Files Included
 - Power BI Dashboard (.pbix)
 - Dataset
 - Python Analysis (optional)
 
 ---
 
-## 🚀 Why This Project Matters
+## Why This Project Matters
 This project demonstrates my ability to turn raw data into actionable insights that directly support business growth and profitability.
 
 ---
