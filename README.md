@@ -43,7 +43,8 @@ This dashboard enables businesses to:
 ## 📸 Dashboard Preview
 <img width="1330" height="748" alt="image" src="https://github.com/user-attachments/assets/742f3880-d5ab-45c1-b026-694dcc8e703c" />
 
-<img width="1327" height="740" alt="image" src="https://github.com/user-attachments/assets/7f4fd67a-868b-43cc-b2d8-0510e3ac04c4" />
+<img width="1333" height="737" alt="image" src="https://github.com/user-attachments/assets/e112527d-e745-4429-81d4-b928c9f3127c" />
+
 
 
 ---
